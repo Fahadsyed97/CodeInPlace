@@ -1,0 +1,22 @@
+->Vaccine Brand name: 
+Johnson & Johnson’s Janssen 
+
+->How many shots you will need? 
+1 shot 
+
+->When are you fully vaccinated? 
+2 weeks after your shot.
+
+->Possible Side effects:
+In the arm where you got the shot:
+1.Pain
+2.Redness
+3.Swelling
+
+Throughout the rest of your body:
+1.Tiredness
+2.Headache
+3.Muscle pain
+4.Chills
+5.Fever
+6.Nausea

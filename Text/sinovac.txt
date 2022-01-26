@@ -1,0 +1,17 @@
+->Vaccine Brand name: 
+Sinovac- Sinovac Biotech
+
+->How many shots you will need? 
+2 shots (28 days apart).
+
+->When are you fully vaccinated? 
+2 weeks after your second shot.
+
+->Possible Side effects:
+1.Injection site pain
+2.Mild tenderness
+3.Fatigue
+4.Headache
+5.Muscle ache
+6.Chills
+7.Fever

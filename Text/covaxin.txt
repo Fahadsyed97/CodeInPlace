@@ -1,0 +1,21 @@
+->Vaccine Brand name: 
+Covaxin-Bharat Biotech 
+
+->How many shots you will need? 
+2 shots (4 weeks apart). 
+
+->When are you fully vaccinated? 
+2 weeks after your second shot.
+
+->Possible Side effects:
+1.Injection site pain and injection site swelling
+2.Headache 
+3.Fatigue 
+4.Fever 
+5.Body ache
+6.Abdominal pain 
+7.Nausea and vomiting 
+8.Dizziness-giddiness
+9.Sweating 
+10.Cold 
+11.Cough 
